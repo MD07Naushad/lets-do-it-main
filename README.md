@@ -8,7 +8,7 @@ A simple ToDo List webapp created using **JavaScript, HTML & CSS**.
 
 
 ## Demo
-**Live Preview: 
+**Live Preview:https://md07naushad.github.io/lets-do-it-main/
 
 ## Screenshot
 ![Lets DO It | Screenshot](https://github.com/varunherlekar/lets-do-it/blob/main/screenshot-varunherlekar.github.io-2021.10.18-23_19_52.png?raw=true)
